@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bettercraft:poop_block"
+    }
+  ],
+  "result": {
+    "item": "bettercraft:poop",
+    "count": 9
+  }
+}

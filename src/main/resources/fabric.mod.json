@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "dacraft",
+  "id": "bettercraft",
   "version": "0.0.1-1.18.1",
 
-  "name": "DaCraft",
-  "description": "DaCraft adds in crafting recipes for previously uncraftable items!",
+  "name": "BetterCraft",
+  "description": "BetterCraft adds in crafting recipes for previously uncraftable items, as well as some new weapons and materials!",
   "authors": [
     "MrJesseh"
   ],
@@ -14,16 +14,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/dacraft/icon.png",
+  "icon": "assets/bettercraft/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.mrjesseh.dacraft.DaCraft"
+      "com.mrjesseh.bettercraft.BetterCraft"
     ]
   },
   "mixins": [
-    "dacraft.mixins.json"
+    "bettercraft.mixins.json"
   ],
 
   "depends": {

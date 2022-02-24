@@ -1,19 +1,21 @@
-package com.mrjesseh.dacraft;
+package com.mrjesseh.bettercraft;
 
-import com.mrjesseh.dacraft.item.ModItems;
+import com.mrjesseh.bettercraft.block.ModBlocks;
+import com.mrjesseh.bettercraft.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class DaCraft implements ModInitializer {
+public class BetterCraft implements ModInitializer {
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.
 	// That way, it's clear which mod wrote info, warnings, and errors.
-	public static final Logger LOGGER = LoggerFactory.getLogger("dacraft");
-	public static final String MOD_ID = "dacraft";
+	public static final Logger LOGGER = LoggerFactory.getLogger("bettercraft");
+	public static final String MOD_ID = "bettercraft";
 
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
