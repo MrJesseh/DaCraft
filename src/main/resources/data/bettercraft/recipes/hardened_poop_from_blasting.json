@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "bettercraft:poop"
+  },
+  "result": "bettercraft:hardened_poop",
+  "experience": 3.0,
+  "cookingtime": 50
+}

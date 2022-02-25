@@ -2,11 +2,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "bettercraft:poop_block"
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
     }
   ],
   "result": {
     "item": "bettercraft:poop",
-    "count": 9
+    "count": 5
   }
 }

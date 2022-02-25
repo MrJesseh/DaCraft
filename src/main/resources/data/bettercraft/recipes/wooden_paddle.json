@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  B",
+    " X ",
+    "X  "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "bettercraft:wooden_paddle"
+  }
+}

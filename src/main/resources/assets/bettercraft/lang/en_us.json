@@ -3,9 +3,17 @@
   "item.bettercraft.iron_paddle": "Iron Paddle",
   "item.bettercraft.gold_paddle": "Golden Paddle",
   "item.bettercraft.diamond_paddle": "Diamond Paddle",
+  "item.bettercraft.poop": "Poop",
+  "item.bettercraft.hardened_poop": "Hardened Poop",
+  "item.bettercraft.cooked_poop": "Cooked Poop",
+  "item.bettercraft.poop_helmet": "Poop Helmet",
+  "item.bettercraft.poop_chestplate": "Poop Chestplate",
+  "item.bettercraft.poop_leggings": "Poop Leggings",
+  "item.bettercraft.poop_boots": "Poop Boots",
 
 
   "block.bettercraft.diolironerite_block": "Diolironerite Block",
+  "block.bettercraft.poop_block": "Poop Block",
 
 
   "itemGroup.bettercraft.bettercraft": "BetterCraft"

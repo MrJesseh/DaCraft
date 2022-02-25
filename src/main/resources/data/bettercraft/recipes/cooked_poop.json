@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:poop"
+  },
+  "result": "minecraft:cooked_poop",
+  "experience": 4,
+  "cookingtime": 50
+}
